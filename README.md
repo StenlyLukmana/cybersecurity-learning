@@ -11,8 +11,3 @@ Contains documents of learning cybersecurity through CTFs, labs, and online cour
 - PortSwigger Web Security Academy
 
 ---
-
-## 💼 Goals
-- Build strong foundations in cybersecurity
-- Gain hands-on experience in offensive and defensive security
-- Prepare for certifications
